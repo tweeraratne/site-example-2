@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Tharindu Weeraratne</title>
-    <link>http://example.org/categories/</link>
+    <link>tweeraratne.github.io/site-example-2/categories/</link>
     <description>Recent content in Categories on Tharindu Weeraratne</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="tweeraratne.github.io/site-example-2/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ddd</title>
-      <link>http://example.org/categories/ddd/</link>
+      <link>tweeraratne.github.io/site-example-2/categories/ddd/</link>
       <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/ddd/</guid>
+      <guid>tweeraratne.github.io/site-example-2/categories/ddd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>eee</title>
-      <link>http://example.org/categories/eee/</link>
+      <link>tweeraratne.github.io/site-example-2/categories/eee/</link>
       <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/eee/</guid>
+      <guid>tweeraratne.github.io/site-example-2/categories/eee/</guid>
       <description></description>
     </item>
     

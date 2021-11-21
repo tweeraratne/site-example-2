@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Tharindu Weeraratne</title>
-    <link>http://example.org/tags/</link>
+    <link>tweeraratne.github.io/site-example-2/tags/</link>
     <description>Recent content in Tags on Tharindu Weeraratne</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="tweeraratne.github.io/site-example-2/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>aaa</title>
-      <link>http://example.org/tags/aaa/</link>
+      <link>tweeraratne.github.io/site-example-2/tags/aaa/</link>
       <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/aaa/</guid>
+      <guid>tweeraratne.github.io/site-example-2/tags/aaa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bbb</title>
-      <link>http://example.org/tags/bbb/</link>
+      <link>tweeraratne.github.io/site-example-2/tags/bbb/</link>
       <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/bbb/</guid>
+      <guid>tweeraratne.github.io/site-example-2/tags/bbb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ccc</title>
-      <link>http://example.org/tags/ccc/</link>
+      <link>tweeraratne.github.io/site-example-2/tags/ccc/</link>
       <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/ccc/</guid>
+      <guid>tweeraratne.github.io/site-example-2/tags/ccc/</guid>
       <description></description>
     </item>
     

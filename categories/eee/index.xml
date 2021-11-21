@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>eee on Tharindu Weeraratne</title>
-    <link>http://example.org/categories/eee/</link>
+    <link>tweeraratne.github.io/site-example-2/categories/eee/</link>
     <description>Recent content in eee on Tharindu Weeraratne</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/categories/eee/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="tweeraratne.github.io/site-example-2/categories/eee/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog 1</title>
-      <link>http://example.org/posts/tw_blog_1/</link>
+      <link>tweeraratne.github.io/site-example-2/posts/tw_blog_1/</link>
       <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/tw_blog_1/</guid>
+      <guid>tweeraratne.github.io/site-example-2/posts/tw_blog_1/</guid>
       <description>Pragraph/decription.
  Markdown for the blog    Add markdown content according to the documentation.</description>
     </item>
