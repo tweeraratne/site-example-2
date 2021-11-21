@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Tharindu Weeraratne</title>
-    <link>https://tweeraratne.github.io/site-example-2/tags/</link>
+    <link>https://tweeraratne.github.io/tags/</link>
     <description>Recent content in Tags on Tharindu Weeraratne</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tweeraratne.github.io/site-example-2/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tweeraratne.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>aaa</title>
-      <link>https://tweeraratne.github.io/site-example-2/tags/aaa/</link>
+      <link>https://tweeraratne.github.io/tags/aaa/</link>
       <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://tweeraratne.github.io/site-example-2/tags/aaa/</guid>
+      <guid>https://tweeraratne.github.io/tags/aaa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bbb</title>
-      <link>https://tweeraratne.github.io/site-example-2/tags/bbb/</link>
+      <link>https://tweeraratne.github.io/tags/bbb/</link>
       <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://tweeraratne.github.io/site-example-2/tags/bbb/</guid>
+      <guid>https://tweeraratne.github.io/tags/bbb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ccc</title>
-      <link>https://tweeraratne.github.io/site-example-2/tags/ccc/</link>
+      <link>https://tweeraratne.github.io/tags/ccc/</link>
       <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://tweeraratne.github.io/site-example-2/tags/ccc/</guid>
+      <guid>https://tweeraratne.github.io/tags/ccc/</guid>
       <description></description>
     </item>
     
