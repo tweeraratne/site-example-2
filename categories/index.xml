@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Tharindu Weeraratne</title>
+    <link>http://example.org/categories/</link>
+    <description>Recent content in Categories on Tharindu Weeraratne</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ddd</title>
+      <link>http://example.org/categories/ddd/</link>
+      <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/ddd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eee</title>
+      <link>http://example.org/categories/eee/</link>
+      <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/eee/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
