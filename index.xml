@@ -19,15 +19,6 @@ Link to articles page</description>
     </item>
     
     <item>
-      <title>Articles</title>
-      <link>https://tweeraratne.github.io/articles/</link>
-      <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://tweeraratne.github.io/articles/</guid>
-      <description>Article, publication content.</description>
-    </item>
-    
-    <item>
       <title>Blog 1</title>
       <link>https://tweeraratne.github.io/posts/tw_blog_1/</link>
       <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
@@ -36,6 +27,15 @@ Link to articles page</description>
       <description>Pragraph/decription.
 Markdown for the blog    Add markdown content according to the documentation.
  </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://tweeraratne.github.io/projects/</link>
+      <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tweeraratne.github.io/projects/</guid>
+      <description>Projects content.</description>
     </item>
     
   </channel>
