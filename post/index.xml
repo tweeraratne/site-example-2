@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Tharindu Weeraratne</title>
+    <link>https://tweeraratne.github.io/post/</link>
+    <description>Recent content in Blogs on Tharindu Weeraratne</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tweeraratne.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog 3</title>
+      <link>https://tweeraratne.github.io/post/blog_3/</link>
+      <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tweeraratne.github.io/post/blog_3/</guid>
+      <description>Blog content: &amp;ldquo;coming soon&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Blog 1</title>
+      <link>https://tweeraratne.github.io/post/blog_1/</link>
+      <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tweeraratne.github.io/post/blog_1/</guid>
+      <description>Blog content: &amp;ldquo;coming soon&amp;rdquo;
+ Blog image 1   </description>
+    </item>
+    
+    <item>
+      <title>Blog 2</title>
+      <link>https://tweeraratne.github.io/post/blog_2/</link>
+      <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tweeraratne.github.io/post/blog_2/</guid>
+      <description>Blog content: &amp;ldquo;coming soon&amp;rdquo;</description>
+    </item>
+    
+  </channel>
+</rss>

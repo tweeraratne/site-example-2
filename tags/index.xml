@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Tharindu Weeraratne</title>
+    <link>https://tweeraratne.github.io/tags/</link>
+    <description>Recent content in Tags on Tharindu Weeraratne</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tweeraratne.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Science</title>
+      <link>https://tweeraratne.github.io/tags/science/</link>
+      <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tweeraratne.github.io/tags/science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>https://tweeraratne.github.io/tags/technology/</link>
+      <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tweeraratne.github.io/tags/technology/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
