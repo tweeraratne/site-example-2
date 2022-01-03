@@ -1,3 +1,4 @@
 # Untrack the following files
 
 .DS_store
+resources/
