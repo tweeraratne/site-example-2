@@ -16,5 +16,14 @@
       <description>Blog content: &amp;ldquo;coming soon&amp;rdquo;</description>
     </item>
     
+    <item>
+      <title>Project 2</title>
+      <link>https://tweeraratne.github.io/projects/project_2/</link>
+      <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tweeraratne.github.io/projects/project_2/</guid>
+      <description>Blog content: &amp;ldquo;coming soon&amp;rdquo;</description>
+    </item>
+    
   </channel>
 </rss>

@@ -17,11 +17,30 @@
     </item>
     
     <item>
+      <title>Project 3</title>
+      <link>https://tweeraratne.github.io/projects/project_3/</link>
+      <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tweeraratne.github.io/projects/project_3/</guid>
+      <description>Blog content: &amp;ldquo;coming soon&amp;rdquo;</description>
+    </item>
+    
+    <item>
       <title>Blog 1</title>
       <link>https://tweeraratne.github.io/post/blog_1/</link>
       <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://tweeraratne.github.io/post/blog_1/</guid>
+      <description>Blog content: &amp;ldquo;coming soon&amp;rdquo;
+ Blog image 1   </description>
+    </item>
+    
+    <item>
+      <title>Project 1</title>
+      <link>https://tweeraratne.github.io/projects/project_1/</link>
+      <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tweeraratne.github.io/projects/project_1/</guid>
       <description>Blog content: &amp;ldquo;coming soon&amp;rdquo;
  Blog image 1   </description>
     </item>
